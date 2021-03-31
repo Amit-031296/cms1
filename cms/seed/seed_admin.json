@@ -1,0 +1,27 @@
+[
+{
+    "model": "cms1.cmsusers",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$v6EBBzl4LTh2$1DAO5u0HlhSri35j93sr6PHQR5G1FeJ1tdVhEshBFSA=",
+        "email": "admin123@gmail.com",
+        "username": "admin123",
+        "date_joined": "2021-03-19T07:16:08.646Z",
+        "last_login": "2021-03-19T12:13:15.145Z",
+        "is_admin": true,
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true,
+        "user_password": "",
+        "user_firstname": "",
+        "user_lastname": "",
+        "user_phone_number": "",
+        "user_address": "",
+        "user_city": "",
+        "user_state": "",
+        "user_country": "",
+        "user_pincode": "",
+        "user_role": "Admin"
+    }
+}
+]
